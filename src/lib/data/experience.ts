@@ -70,7 +70,7 @@ export const items: Array<Experience> = [
 		contract: ContractType.Contract,
 		type: 'Software Development',
 		location: 'Brazil',
-		period: { from: new Date(2023, 3, 1), to: new Date(2023, 7, 31) },
+		period: { from: new Date(2024, 2, 1), to: new Date(2023, 8, 31) },
 		skills: getSkills('unity', 'c#'),
 		name: 'Unity Developer',
 		color: 'green',
