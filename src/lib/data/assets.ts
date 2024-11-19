@@ -71,7 +71,9 @@ const Assets = {
 	Unocss: a('unocss.svg'),
 	Ruvy: a('ruvy.svg'),
 	Postcss: a('postcss.svg'),
-	Unity: a('unity.png')
+	Unity: a('unity.png'),
+	Unreal: a('unreal.png'),
+	Godot: a('godot.png')
 };
 
 export default Assets;

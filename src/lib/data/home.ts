@@ -8,7 +8,7 @@ export const name = 'Lucas';
 export const lastName = 'Oliveira';
 
 export const description =
-	'Desenvolvedor de jogos, aplicativos e experiências em realidade aumentada. Sempre em busca de novos desafios e oportunidades. Também atuo como fullstack developer a nível Jr.';
+	'Hi, my name is Lucas, I\'m a game Developer from Brazil with a good amount of experience with Unity 3D & C#. I\'ve made a couple games and Augmented Reality apps. I\'m also a Jr fullstack developer. Currently looking for job opportunities in the game industry or as a fullstack dev. I\'m always up to face new challenges and turn projects into reality.';
 
 export const links: Array<{ platform: Platform; link: string }> = [
 	{ platform: Platform.GitHub, link: 'https://github.com/kimgeurae' },
@@ -18,8 +18,8 @@ export const links: Array<{ platform: Platform; link: string }> = [
 	},
 	{
 		platform: Platform.Email,
-		link: 'mailto:lucaslgmo@gmail.com?subject=Tenho interesse em suas habilidades&body=Olá, vi seu portfolio e tenho interesse em te fazer uma proposta'
+		link: 'lucaslgmo@gmail.com'
 	}
 ];
 
-export const skills = getSkills('js', 'css', 'html', 'csharp', 'unity', 'svelte', 'ts');
+export const skills = getSkills('csharp', 'unity', 'js', 'ts', 'css', 'html', 'svelte');
