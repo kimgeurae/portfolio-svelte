@@ -17,25 +17,9 @@ export const links: Array<{ platform: Platform; link: string }> = [
 		link: 'https://www.linkedin.com/in/lucaslgmo'
 	},
 	{
-		platform: Platform.Twitter,
-		link: 'https://twitter.com/'
-	},
-	{
-		platform: Platform.StackOverflow,
-		link: 'https://stackoverflow.com/'
-	},
-	{
 		platform: Platform.Email,
-		link: 'lucaslgmo@gmail.com'
-	},
-	{
-		platform: Platform.Youtube,
-		link: 'https://www.youtube.com'
-	},
-	{
-		platform: Platform.Facebook,
-		link: 'https://www.facebook.com'
+		link: 'mailto:lucaslgmo@gmail.com?subject=Tenho interesse em suas habilidades&body=Olá, vi seu portfolio e tenho interesse em te fazer uma proposta'
 	}
 ];
 
-export const skills = getSkills('js', 'css', 'html', 'reactjs', 'sass', 'svelte', 'ts');
+export const skills = getSkills('js', 'css', 'html', 'csharp', 'unity', 'svelte', 'ts');
