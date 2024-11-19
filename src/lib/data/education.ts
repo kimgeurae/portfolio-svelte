@@ -21,7 +21,7 @@ export const items: Array<Education> = [
 		logo: Assets.Unknown,
 		name: '',
 		organization: 'SAGA - School of Arts, Games and Animation',
-		period: { from: new Date(2014, 5, 1), to: new Date(2015, 6, 31) },
+		period: { from: new Date(2014, 5, 1), to: new Date(2016, 6, 31) },
 		shortDescription: '',
 		slug: 'dummy-education-item-2',
 		subjects: ['Unreal', 'Blueprint', 'Photoshop', 'zBrush', 'Maya']
